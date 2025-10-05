@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&height=180&text=Cyril%20Clement%20⚡&fontAlign=50&fontAlignY=40&color=0:7F7F7F,100:1C1C1C&fontColor=E0E0E0&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=180&text=Cyril%20Clement%20&fontAlign=50&fontAlignY=40&color=0:7F7F7F,100:1C1C1C&fontColor=E0E0E0&animation=fadeIn)
 
 # 👋 Hey, I'm **Cyril Clement**
 ### 🪐 Developer · Builder · Explorer  
