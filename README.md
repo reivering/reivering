@@ -21,7 +21,16 @@
 ---
 
 ### 🧰 Languages & Tools
-`HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL` · `SQL` · `Java` · `Python` · `Pandas` · `Matplotlib` · `C#` *(learning)* · `Bash`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,python,cs,bash,git,github,vscode&theme=light" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=pandas,matplotlib&theme=light" />
+
+</div>
 
 ---
 
