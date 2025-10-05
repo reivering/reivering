@@ -1,4 +1,4 @@
-<!-- 🪐 Cyril Clement | Silver Surfer Edition GitHub Profile -->
+<!-- 🪐 Cyril Clement | Silver Surfer Edition GitHub Profile (Final with Portfolio) -->
 
 <div align="center">
 
@@ -67,9 +67,9 @@
 ## 🌠 Projects & Portfolio
 | Project | Description | Tech |
 |----------|--------------|------|
-| **[Zeyno.my — Portfolio & Showcase](https://zeyno.my)** | Personal and client showcase hub | HTML, CSS, JS, PHP, MySQL |
-| **Automation Suite** | Custom Python scripts for data automation | Python, Pandas |
-| **Portfolio Revamp** | Minimal motion-driven redesign | Next.js, Tailwind |
+| **[Cyril.lat — Personal Portfolio](https://cyril.lat)** | Personal developer portfolio showcasing projects, résumé, and contact | Next.js, Tailwind |
+| **[Zeyno.my — Creative Web Startup](https://zeyno.my)** | Web solutions studio for business clients and creative brands | HTML, CSS, JS, PHP, MySQL |
+| **Automation Suite** | Python automation for analytics & workflow simplification | Python, Pandas |
 
 ---
 
@@ -80,9 +80,10 @@
 ---
 
 ## 🌐 Connect
+[![Portfolio](https://img.shields.io/badge/Personal%20Portfolio-cyril.lat-9CA3AF?style=flat&logo=About.me&logoColor=white)](https://cyril.lat)
+[![Startup](https://img.shields.io/badge/Zeyno.my-7F7F7F?style=flat&logo=About.me&logoColor=white)](https://zeyno.my)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrilclement1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F7F7F?style=flat&logo=About.me&logoColor=white)](https://zeyno.my)
-[![Mail](https://img.shields.io/badge/Email-ikcyrils@gmail.com-9CA3AF?style=flat&logo=gmail&logoColor=white)](mailto:ikcyrils@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-ikcyrils@gmail.com-C0C0C0?style=flat&logo=gmail&logoColor=white)](mailto:ikcyrils@gmail.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:7F7F7F&height=110&section=footer)
 
